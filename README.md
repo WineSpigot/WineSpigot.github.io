@@ -1,1 +1,1 @@
-### WineSpigot! ###
+### WineSpigot ###
